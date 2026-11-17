@@ -1,5 +1,5 @@
 # CSC221-MissJoi89-Group-Project
-Group Project for CSC221 2021 FA
+Group Project for CSC221 2026 FA
 
 _Owner:_ Sarina Crowder (scrowder@waketech.edu)
 
