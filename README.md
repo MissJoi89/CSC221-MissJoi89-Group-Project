@@ -7,4 +7,4 @@ _Project Description:_ API data collection project to gather data on 50 music ar
 
 _API Endpoint URL:_ https://tastedive.com
 
-_Collaborator:_ Hunter Cox (hjcox@waketech.edu)
+_Collaborator:_ Hunter Cox (hjcox@waketech.edu) ACCEPTED
